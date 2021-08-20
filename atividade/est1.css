@@ -1,0 +1,49 @@
+
+img{
+    margin: 5px;
+    padding: 10px;
+}
+ 
+
+
+.dog1{
+    border-style:  solid; 
+   width: 890px ;
+   color: aqua; 
+   border-width: 40px; 
+   
+}
+
+
+.dog2{ 
+    border-style: dashed;
+    border-width: 20px;
+    width:fit-content;
+    color: rgb(116, 197, 36);
+      
+} 
+
+.dog3{
+    border-style: dotted;
+    width:fit-content;
+    border-width: 35px;
+    color: tomato;
+}
+
+
+.dog4{
+    border-style: ridge;
+    width: fit-content ;
+    border-width: 15px;
+    border-color: violet;
+} 
+
+.dog5{
+    border-style:double ;
+    width: fit-content;
+    border-width: 50px;
+    color: rgb(0, 0, 163);
+}
+
+
+
